@@ -96,7 +96,7 @@ img::-moz-selection {
 
 .navbar-nav>li.nav-item>a.nav-link, .navbar-nav>li.nav-item>a.nav-link:focus {
 	font-size:.9rem;f
-	ont-weight:700;
+	font-weight:500;
 	text-transform:uppercase;
 	color:#212529;
 }
